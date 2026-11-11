@@ -2,11 +2,11 @@
 
 # Hi, I'm Tahsin
 
-**Aspiring Frontend Developer · Bangladesh**
+**Frontend Development · Personal Finance Analytics & BI · Bangladesh**
 
-Building websites, developing my skills, and learning through real-world projects.
+Building websites and browser-based tools that turn financial data into clear insights.
 
-[Explore Dawn Era](https://github.com/tahsin-1/DawnEra)
+[Finance BI Project](#personal-finance-analytics-bi) · [Dawn Era](https://github.com/tahsin-1/DawnEra)
 
 </div>
 
@@ -14,22 +14,47 @@ Building websites, developing my skills, and learning through real-world project
 
 ## About me
 
-I'm Md. Tahsin, an aspiring frontend developer from Bangladesh. I enjoy bringing ideas to life on the web and learning by building.
+I'm Md. Tahsin, an aspiring developer from Bangladesh with an interest in frontend development, personal finance analytics, and business intelligence. I learn by building practical projects and improving them step by step.
 
-- **Building:** Dawn Era, my streetwear brand website.
-- **Practicing:** responsive layouts with HTML, CSS, JavaScript, and Bootstrap.
-- **Improving:** JavaScript fundamentals, code organization, and web accessibility.
-- **Also learning:** German alongside web development.
+- **Building:** Personal Finance Analytics BI, a browser-based finance dashboard.
+- **Project status:** Phase 3 in progress, with development planned through Phase 6.
+- **Also building:** Dawn Era, my streetwear brand website.
+- **Improving:** JavaScript, data visualization, responsive interfaces, and code organization.
+- **Also learning:** German alongside my technical skills.
 
 ## Skills & tools
 
-| Area | Technologies |
+| Area | Technologies & focus |
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Finance BI project stack | Tailwind CSS, Chart.js, browser localStorage |
+| Analytics focus | Financial KPIs, budget variance, savings rates, spending trends |
+| Data handling in the BI project | CSV import/export, JSON backup and restore |
 | Development tools | Git, GitHub, VS Code |
 | Deployment | Netlify |
 
-## Featured project
+## Featured projects
+
+### Personal Finance Analytics BI
+
+A browser-based personal finance and business intelligence dashboard for tracking money, exploring spending patterns, and monitoring savings goals.
+
+**Status:** Phase 3 in progress · Planned scope: through Phase 6.
+
+**Features represented in the current project source:**
+
+- Income and expense tracking with categories and date filters.
+- Financial KPIs, including net savings, savings rate, and budget utilization.
+- Budget comparisons, spending breakdowns, and trend charts.
+- Savings goals and contribution tracking.
+- Recurring transaction schedules.
+- Transparent rule-based insights and a financial health score.
+- CSV import/export and JSON backup and restore.
+
+**Project stack:** HTML · CSS · JavaScript · Tailwind CSS · Chart.js  
+**Data storage:** browser localStorage.
+
+*Currently under development; no public repository or live demo is linked yet.*
 
 ### Dawn Era
 
@@ -42,10 +67,10 @@ A multi-page streetwear brand website with home, shop, brand story, and contact 
 
 ## What I'm working toward
 
-- Building responsive interfaces that work across screen sizes.
-- Writing clearer, more maintainable JavaScript.
-- Making websites easier to use and navigate.
-- Documenting my projects so others can understand and run them.
+- Developing Personal Finance Analytics BI through the planned phases.
+- Turning financial data into useful charts and understandable insights.
+- Building responsive, accessible interfaces.
+- Writing maintainable JavaScript and documenting my projects clearly.
 
 ---
 
