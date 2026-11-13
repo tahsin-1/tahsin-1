@@ -1,9 +1,11 @@
 # Md. Tahsin
 **Aspiring Developer · Web Development & Finance Analytics · Bangladesh**
 
-I build web projects to develop my programming and problem-solving skills. My current work combines a streetwear storefront with a personal finance dashboard, using JavaScript for interfaces, browser storage, and data visualization.
+I'm an IT-Ausbildung aspirant from Bangladesh, interested in web development and personal finance analytics. I turn project ideas into prototypes by defining UI layouts and feature requirements, then guiding AI-assisted implementation.
 
-**Career direction:** IT Ausbildung in Germany, with an interest in application development.
+**Career direction:** IT-Ausbildung in Germany.
+
+[Email](mailto:tahsin307069@gmail.com) · [LinkedIn](https://www.linkedin.com/in/md-tahsin-b666a4407/)
 
 > **Kurzprofil:** Ich bin Tahsin aus Bangladesch. Ich lerne Webentwicklung und arbeite an eigenen Projekten. Ich interessiere mich für eine IT-Ausbildung in Deutschland und lerne Deutsch.
 
@@ -30,9 +32,17 @@ The current development version includes transaction tracking, financial KPIs, b
 
 **Development status:** Phase 3 is ongoing. Phases through Phase 6 are planned, not completed.
 
-## Technical toolkit
+## My contribution & development approach
 
-| Area | Tools and practice |
+For both Dawn Era and Personal Finance Analytics BI, I provided the project ideas, UI direction, layout instructions, and decisions about which features to include or leave out. Claude generated the code from my guidance.
+
+My contribution is project direction and requirements definition. These are AI-assisted prototypes; the implementation is not presented as independently hand-written code. My next learning priority is to understand the generated code and build the ability to modify and debug it independently.
+
+## Technologies used in my projects
+
+This table describes the project stack, not a claim of independent proficiency in every technology.
+
+| Area | Technologies |
 | --- | --- |
 | Web foundations | HTML, CSS, JavaScript |
 | UI styling | Bootstrap; Tailwind CSS in the Finance BI project |
